@@ -1,8 +1,9 @@
 # Excel-Like-Open-Source-Javascript-Projects
 
-Comparison / Demo Websites
-+ https://jspreadsheets.com/
+Lists
 + https://www.jqueryscript.net/tags.php?/Spreadsheet/
++ https://jspreadsheets.com/
++ https://www.quora.com/What-is-the-best-open-source-JavaScript-spreadsheet-implementation
 
 
 ### JExcel
