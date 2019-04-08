@@ -1,6 +1,8 @@
 # Excel-Like-Open-Source-Javascript-Projects
 
-https://jspreadsheets.com/
+Comparison / Demo Websites
++ https://jspreadsheets.com/
++ https://www.jqueryscript.net/tags.php?/Spreadsheet/
 
 
 ### JExcel
